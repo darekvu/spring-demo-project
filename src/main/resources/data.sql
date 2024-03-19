@@ -1,0 +1,1 @@
+INSERT INTO users(id, username,password) VALUES (1,'aga','aika800') ,(2,'danbo','shady1')
